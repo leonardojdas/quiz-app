@@ -1,0 +1,65 @@
+{
+    "title": "The Office Quiz",
+    "questions": [
+        {
+            "questionText": "What's Pam's favorite flavor of yogurt?",
+            "choices": ["Vanilla", "Strawberry", "Mixed berry", "Chocolate", "Lemon"],
+            "answer": 2
+        },
+        {
+            "questionText": "What does Michael make a ton of for him and Pam on the morning of the first day of the Michael Scott Paper Company?",
+            "choices": ["Waffles", "Pancakes", "Cereal", "French Toast", "Just coffee"],
+            "answer": 3
+        },
+        {
+            "questionText": "What acronym does Creed come up with during his brief reign as manager?",
+            "choices": ["NOBODDY", "BOBODDY", "DUNDER"],
+            "answer": 1
+        },
+        {
+            "questionText": "'_______, your teeth called. Your breath stinks. Boom roasted.'",
+            "choices": ["Toby", "Kevin", "Creed", "Dwight", "Jim"],
+            "answer": 2
+        },
+        {
+            "questionText": "Aside from Jim, who in the office has an obvious crush on Pam throughout the show?",
+            "choices": ["Toby", "Andy", "Ryan", "Kevin"],
+            "answer": 0
+        },
+        {
+            "questionText": "Jim sends an urgent message back to Dwight posing as Dwight from the future, warning him that something in the office was poisoned. What was it?",
+            "choices": ["The donuts", "The coffee", "The water"],
+            "answer": 1
+        },
+        {
+            "questionText": "What radio station stickers are seen around the office?",
+            "choices": ["Foggy 901", "Dr. Ira Glass", "Froggy 101"],
+            "answer": 2
+        },
+        {
+            "questionText": "What kind of sauce does Kevin ask for when being forced to eat broccoli as part of his New Year's resolution?",
+            "choices": ["Ketchup", "Hollandaise", "Mayo", "Ranch", "Caesar"],
+            "answer": 1
+        },
+        {
+            "questionText": "What does Michael eat instead of ice cream because they don't have any?",
+            "choices": ["Mayo and black olives", "Mayo and chocolate chips", "Mayo and chips"],
+            "answer": 0
+        },
+        {
+            "questionText": "During the episode, Prince Family Paper, what's the secret signal that Dwight and Michael agree on using?",
+            "choices": ["Raising your eyebrows", "Licking your lips", "Couching loudly"],
+            "answer": 1
+        },
+        {
+            "questionText": "What does Michael's girlfriend, Carol, dress up as to Kelly's Diwali party?",
+            "choices": ["A nurse", "A realtor", "A cheerleader"],
+            "answer": 2
+        },
+        {
+            "questionText": "And lastly, how much did Michael's beloved plasma TV cost?",
+            "choices": ["$200", "$100", "$900", "$500"],
+            "answer": 0
+        }
+    ]
+}
